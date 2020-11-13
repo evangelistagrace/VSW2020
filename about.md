@@ -35,42 +35,40 @@ __Tarikh- tarikh penting bagi setiap program__
 
 __Science Video Competition__
 
-•	Video Saringan – 9 hingga 15 Nov
-•	Taklimat Google Meet – 13 Nov
-•	Perjumpaan Google Meet  - Setiap Isnin, Rabu & Jumaat
+- Video Saringan – 9 hingga 15 Nov
+- Taklimat Google Meet – 13 Nov
+- Perjumpaan Google Meet  - Setiap Isnin, Rabu & Jumaat
 16, 18, 20, Nov
 23, 25, 27, Nov
 30 Nov, serta 02, 04 Dis
-•	Tarikh akhir menghantar video – 06 Dis
-•	Pengumuman pemenang – 11 Dis
+- Tarikh akhir menghantar video – 06 Dis
+- Pengumuman pemenang – 11 Dis
 
 __Science TikTok Competition__
-
-•	Taklimat Google Meet – 13 Nov
-•	Online Workshop (Google Meet) – 16 Nov
-•	Bimbingan melalui group Telegram – 17 Nov – 06 Dis
-•	Tarikh akhir muat naik klip video – 06 Dis
-•	Tayangan klip video di blog – 07 – 10 Dis
-•	Pengumuman pemenang – 11 Dis
+- Taklimat Google Meet – 13 Nov
+- Online Workshop (Google Meet) – 16 Nov
+- Bimbingan melalui group Telegram – 17 Nov – 06 Dis
+- Tarikh akhir muat naik klip video – 06 Dis
+- Tayangan klip video di blog – 07 – 10 Dis
+- Pengumuman pemenang – 11 Dis
 
 __Science Poster Competition__
-
-•	Taklimat Google Meet – 13 Nov
-•	Online Workshop (Google Meet) – 14, 16 Nov
-•	Bimbingan melalui group Telegram – 17 Nov – 06 Dis
-•	Tarikh akhir hantar poster – 06 Dis
-•	Paparan 10 poster terbaik di blog – 07 – 10 Dis
-•	Pengumuman pemenang – 11 Dis
+- Taklimat Google Meet – 13 Nov
+- Online Workshop (Google Meet) – 14, 16 Nov
+- Bimbingan melalui group Telegram – 17 Nov – 06 Dis
+- Tarikh akhir hantar poster – 06 Dis
+- Paparan 10 poster terbaik di blog – 07 – 10 Dis
+- Pengumuman pemenang – 11 Dis
 
 __Online Science Quiz__
-
-•	Taklimat Google Meet – 13 Nov
-•	Muat naik soalan ke dalam Quizizz
-•	Quizziz dibuka – 07 – 10 Dis
-•	Tarikh akhir menjawab Quizizz – 10 Dis 
-•	Pengumuman pemenang – 11 Dis
+- Taklimat Google Meet – 13 Nov
+- Muat naik soalan ke dalam Quizizz
+- Quizziz dibuka – 07 – 10 Dis
+- Tarikh akhir menjawab Quizizz – 10 Dis 
+- Pengumuman pemenang – 11 Dis
 
 Untuk maklumat lanjut, sila rujuk poster-poster di [Gallery](http://vsw2020.site/gallery/)
+
 
 
 
