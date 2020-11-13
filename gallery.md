@@ -14,5 +14,10 @@ title: VSW Gallery
     <center>
         <img src="{{ '/assets/img/touring.jpg'}}" width="700px" alt=""> 
     </center>
+    <br />
+    <h3>Main Event Poster</h3>
+    <center>
+        <img src="{{ '/assets/img/main poster.jpeg'}}" width="700px" alt=""> 
+    </center>
 
 </div>
