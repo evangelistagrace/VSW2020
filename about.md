@@ -32,7 +32,7 @@ __Program dan guru yang terlibat__:
 - Science Poster (Tahun 4) – Pn Yusliza 
 - Online Science Quiz (Tahun 3)- En. Wan Faizun & En. Fadhil
 
-__Tarikh- tarikh penting bagi setiap program__
+## __Tarikh- tarikh penting bagi setiap program__
 
 __Science Video Competition__
 
