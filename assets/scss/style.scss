@@ -1,0 +1,168 @@
+// Reset using Normalize
+@import "normalize";
+
+// Import fonts from Google
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
+
+// Site configuration
+@import "config"; 
+
+// Import Partials
+@import "partials/typography";
+@import "partials/mixins";
+
+// Modules
+@import "modules/buttons";
+@import "modules/forms"; 
+@import "modules/tables";
+@import "modules/syntax"; 
+
+// Mobile up base styles
+@import "breakpoints/mobileup";
+
+// Import media queries add more as you desire
+@media only screen and (min-width: 800px) { @import "breakpoints/800up";} 
+@media only screen and (min-width: 1200px) { @import "breakpoints/1200up";} 
+
+// If IE support is needed you can add them here or create another stylesheet for specific IE fixes
+
+// custom sytles
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;700&family=Nunito:wght@400;600&family=Varela+Round&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Nunito:wght@400;600&family=Varela+Round&display=swap');
+
+body {
+  font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: $tertiary-color;
+  &:hover {
+    color: darken($tertiary-color, 10%);
+  }
+}
+
+h1, h2, h3 {
+  font-family: 'Caveat Brush', cursive;
+  font-weight: 800;
+}
+
+// video ocntainer
+.embed-container {
+  position: relative;
+  padding-bottom: 49.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 80%;
+}
+
+.embed-container iframe, .embed-container video, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 94%;
+}
+
+.header {
+  background-image: url();
+  // filter: brightness(0.2) sepia(1) hue-rotate(180deg) saturate(5);
+  width: 100%;
+  background-size: unset;
+  background-position: unset;
+  background-color: #C5D86D;
+  z-index: -2;
+  a {
+    color: red;
+  }
+
+  h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 800;
+    a {
+      color: #81667A;
+    }
+  }
+
+  .container {
+    z-index: 1;
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    // background: url(/assets/img/bg/pattern3.svg);
+    -webkit-mask-image: url(/assets/img/bg/pattern4.svg);
+    mask-image: url(/assets/img/bg/pattern4.svg);
+    height: 100%;
+    top: 0;
+    background-color: rgba(255,255,255,.5);
+    mask-size: 250px;
+    z-index: -1;
+  }
+}
+
+.nav-collapse.nav-collapse-0.closed a {
+  color: #81667A;
+  font-family: 'Open Sans', sans-serif;
+}
+
+@media only screen and (min-width: 800px) {
+  .header h1 {
+    font-size: 2em;
+  }
+  .header nav ul li {
+    background: rgba(255,255,255,.7);
+    margin: 3px;
+  }
+}
+
+
+.footer {
+  background: url(/assets/img/footer.png);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-size: 800px 220px;
+  padding: 10em 0 0 0;
+}
+
+@media only screen and (min-width: 800px) {
+  .footer {
+    padding: 10em 0 0 0;
+  }
+  .footer .container {
+    display: block;
+  }
+  .container {
+    clear: both;
+  }
+}
+
+.copy {
+  padding: 0;
+  padding-left: 5.5em;
+  padding-top: 2em;
+}
+
+
+.header {
+  background-color: #59BFC7;
+}
+@media only screen and (min-width: 800px) {
+  .header {
+      height: 17em;
+  }
+}
+
+.pageTitle {
+  color: #ED6068;
+}
+
+h1, .postTitle {
+  color: $secondary-color;
+
+}
