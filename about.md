@@ -34,6 +34,7 @@ __Program dan guru yang terlibat__:
 __Tarikh- tarikh penting bagi setiap program__
 
 __Science Video Competition__
+
 •	Video Saringan – 9 hingga 15 Nov
 •	Taklimat Google Meet – 13 Nov
 •	Perjumpaan Google Meet  - Setiap Isnin, Rabu & Jumaat
@@ -44,6 +45,7 @@ __Science Video Competition__
 •	Pengumuman pemenang – 11 Dis
 
 __Science TikTok Competition__
+
 •	Taklimat Google Meet – 13 Nov
 •	Online Workshop (Google Meet) – 16 Nov
 •	Bimbingan melalui group Telegram – 17 Nov – 06 Dis
@@ -52,6 +54,7 @@ __Science TikTok Competition__
 •	Pengumuman pemenang – 11 Dis
 
 __Science Poster Competition__
+
 •	Taklimat Google Meet – 13 Nov
 •	Online Workshop (Google Meet) – 14, 16 Nov
 •	Bimbingan melalui group Telegram – 17 Nov – 06 Dis
@@ -60,6 +63,7 @@ __Science Poster Competition__
 •	Pengumuman pemenang – 11 Dis
 
 __Online Science Quiz__
+
 •	Taklimat Google Meet – 13 Nov
 •	Muat naik soalan ke dalam Quizizz
 •	Quizziz dibuka – 07 – 10 Dis
