@@ -2,7 +2,7 @@ title: Virtual Science Week 2020
 description: ""
 
 # url: http://brianmaierjr.github.com/long-haul
-baseurl: "/VSW2020"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
