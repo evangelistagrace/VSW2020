@@ -24,5 +24,25 @@ title: VSW Gallery
     <center>
         <img src="{{ '/assets/img/Quiz_Poster.jpeg'}}" width="700px" alt=""> 
     </center>
+     <br />
+     <h3>Science TikTok Competition</h3>
+    <center>
+        <img src="{{ '/assets/img/TikTok_Poster.jpeg'}}" width="700px" alt=""> 
+    </center>
+     <br />
+     <h3>Science Poster Competition</h3>
+    <center>
+        <img src="{{ '/assets/img/Poster_Competition.jpeg'}}" width="700px" alt=""> 
+    </center>
+     <br />
+     <h3>Science TikTok Competition</h3>
+    <center>
+        <img src="{{ '/assets/img/TikTok_Poster.jpeg'}}" width="700px" alt=""> 
+    </center>
+     <br />
+     <h3>Science Video Competition</h3>
+    <center>
+        <img src="{{ '/assets/img/Video_Poster.jpeg'}}" width="700px" alt=""> 
+    </center>
 
 </div>
