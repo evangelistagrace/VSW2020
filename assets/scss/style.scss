@@ -195,6 +195,12 @@ h1, .postTitle {
   .nav-toggle {
     float: none;
     display: block;
+    margin-top: 0;
     right: 0;
+  }
+
+  .footer {
+    background-size: 400px 110px;
+    padding: 6em 0 0;
   }
 }
