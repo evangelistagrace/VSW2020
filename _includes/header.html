@@ -1,7 +1,10 @@
  <div class="header {% if site.header == "large" %}header--large{% endif %}">
      <div class="container">
          <!-- <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1> -->
-         <img src="/assets/img/logo2.png" alt="">
+         
+         <div class="logo-img">
+            <img src="/assets/img/logo2.png" alt=""> 
+         </div>
          <nav class="nav-collapse">
              <ul class="noList">
                  {%- for link in site.navigation -%}{%- assign current = nil -%}{%- if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' -%}{%- assign current = 'current' -%}{%- endif -%}

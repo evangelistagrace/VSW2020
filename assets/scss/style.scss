@@ -67,16 +67,11 @@ h1, h2, h3 {
 
 .header {
   background-image: url();
-  // filter: brightness(0.2) sepia(1) hue-rotate(180deg) saturate(5);
   width: 100%;
   background-size: unset;
   background-position: unset;
   background-color: #C5D86D;
   z-index: 1;
-  a {
-    color: red;
-  }
-
   h1 {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 800;
@@ -89,6 +84,13 @@ h1, h2, h3 {
     z-index: 1;
     text-align: center;
     padding-top: 20px;
+    .logo-img {
+      width: 100%;
+      display: block;
+      .img {
+        max-width: 100%;
+      }
+    }
   }
 
   &:after {
@@ -110,6 +112,11 @@ h1, h2, h3 {
   color: #81667A;
   font-family: 'Open Sans', sans-serif;
 }
+
+// .nav-collapse ul li {
+//   background: $tertiary-color;
+//   border-bottom: darken($tertiary-color, 10%);
+// }
 
 @media only screen and (min-width: 800px) {
   .header h1 {
@@ -167,9 +174,27 @@ h1, .postTitle {
 
 }
 
+// mobile
 @media only screen and (max-width: 500px) {
   .copy {
     padding-left: 0;
     clear: both;
+  }
+
+  .header {
+    height: auto;
+    .container {
+      .logo-img {
+        img {
+          max-width: 300px;
+        }
+      }
+    }
+  }
+
+  .nav-toggle {
+    float: none;
+    display: block;
+    right: 0;
   }
 }
