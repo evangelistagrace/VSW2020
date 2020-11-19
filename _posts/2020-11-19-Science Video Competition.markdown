@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Science Video Competition (Std 6)"
-date: 2020-11-19
+date: 2020-11-15
 ---
 
 <h3>Science Video Competition</h3>
