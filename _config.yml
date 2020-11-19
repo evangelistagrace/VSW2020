@@ -5,6 +5,7 @@ description: ""
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+excerpt_separator: <!--more-->
 
 # Header Option
 # header: large
