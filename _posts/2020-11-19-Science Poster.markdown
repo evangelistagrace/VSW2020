@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Science Poster Competition (Std 6)"
+title: "Science Poster Competition (Std 4)"
 date: 2020-11-19
 ---
 
