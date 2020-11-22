@@ -14,90 +14,92 @@ title: About Virtual Science Week 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tujuan kerjasama ini adalah untuk menanamkan penghargaan yang lebih mendalam terhadap sains dan memupuk bakat baru dalam kalangan pelajar sekolah rendah. Acara ini juga berfungsi sebagai kaedah untuk membolehkan pelajar prasiswazah menerapkan apa yang mereka telah belajar dalam biologi sel dan molekul semasa menjalankan aktiviti dengan masyarakat.
 
 ## Matlamat/Objektif
-*Murid dapat menghasilkan pelbagai media(video, klip TikTok, poster) yang berasaskan pengetahuan sains.
-*Murid dapat berkolaborasi dalam menghasilkan media berkontenkan sains.
-*Murid dapat mengintegrasi kemahiran seni dalam bidang sains. (STEAM)
-*Murid dapat mengenali info dan pengetahuan asas berkenaan dengan bidang biomolekul
+- Murid dapat menghasilkan pelbagai media(video, klip TikTok, poster) yang berasaskan pengetahuan sains.
+- Murid dapat berkolaborasi dalam menghasilkan media berkontenkan sains.
+- Murid dapat mengintegrasi kemahiran seni dalam bidang sains. (STEAM)
+- Murid dapat mengenali info dan pengetahuan asas berkenaan dengan bidang biomolekul
 
 ## Video Ucapan Guru Besar Sk Jalan U3, Shah Alam
 {% include youtube_player.html id='WIcVpS844fw' %}
 
 ## Pelaksanaan
-*Program dijalankan secara atas talian.
-*Pelajar UPM bertindak sebagai fasilitator dalam memberikan bimbingan kepada murid tentang cara menghasilkan video, klip video TikTok dan poster.
-*Murid menghasilkan video secara berkumpulan dengan bimbingan seorang fasilitator bagi setiap kumpulan.
-*Murid menghantar hasil kerja melalui Google Classroom.
+- Program dijalankan secara atas talian.
+- Pelajar UPM bertindak sebagai fasilitator dalam memberikan bimbingan kepada murid tentang cara menghasilkan video, klip video TikTok dan poster.
+- Murid menghasilkan video secara berkumpulan dengan bimbingan seorang fasilitator bagi setiap kumpulan.
+- Murid menghantar hasil kerja melalui Google Classroom.
 
 ## Jawatankuasa
-*Ketua Panitia: En. Mohd Rosli Bin Abd Wahab
-*Penyelaras: En. Mohd Hafiz Mungin
-*AJK: 
- *Pn. Anidah
- *Pn. Hasma 
- *Pn. Yuzliza 
- *En. Wan Faizun
- *En. Mohd Fadhil
- *En. Khairani
+- Ketua Panitia: En. Mohd Rosli Bin Abd Wahab
+- Penyelaras: En. Mohd Hafiz Mungin
+- AJK: 
+ - Pn. Anidah
+ - Pn. Hasma 
+ - Pn. Yuzliza 
+ - En. Wan Faizun
+ - En. Mohd Fadhil
+ - En. Khairani
  
  ## Persons-in-Charge
+ 
  ### Blog
-Penyelaras: En. Mohd Hafiz
-Fasilitator: Deborah Joyce
+- Penyelaras: En. Mohd Hafiz
+- Fasilitator: Deborah Joyce
 
 ### Pertandingan Video
-Penyelaras: En Rosli, Pn Hasma & En. Fadhil
-Fasilitator: Yeap Sie Ling, Li Yichong, Dayang Azah Sofea, Sum Sofea, Chandreeka, Lai Thai Leong
+- Penyelaras: En Rosli, Pn Hasma & En. Fadhil
+- Fasilitator: Yeap Sie Ling, Li Yichong, Dayang Azah Sofea, Sum Sofea, Chandreeka, Lai Thai Leong
 
 ### Pertandingan TikTok Sains
-Penyelaras: En. Mohd Hafiz
-Fasilitator: Nabilah Sahira, Nurhaida Batrisyia, Miza Iwani, Aisyah Afiqah, Nur Hamizah
+- Penyelaras: En. Mohd Hafiz
+- Fasilitator: Nabilah Sahira, Nurhaida Batrisyia, Miza Iwani, Aisyah Afiqah, Nur Hamizah
 
 ### Pertandingan Poster Sains
-Penyelaras: Pn. Yusliza & Pn. Anidah
-Fasilitator: Arina Nabilah, Nur Asyiqin, Yashvinnie, Shobana Priyah
+- Penyelaras: Pn. Yusliza & Pn. Anidah
+- Fasilitator: Arina Nabilah, Nur Asyiqin, Yashvinnie, Shobana Priyah
 
 ### Pertandingan Kuiz Sains
-Penyelaras: En. Wan Faizun & En. Khairani 
-Fasilitator: Chin Yi Ling, Low Xuan Zi, Siti Khadijah
+- Penyelaras: En. Wan Faizun & En. Khairani 
+- Fasilitator: Chin Yi Ling, Low Xuan Zi, Siti Khadijah
 
 ## Tarikh-Tarikh Penting
+
 ### Pertandingan Video
-*Tarikh dan masa taklimat Google Meet:
- *19 Nov, 9 pm- 10 pm
-*Tarikh dan masa Virtual Workshop melalui Google Meet: 
- *23 dan 25 November 2020
- *9 pm – 10 pm
-*Tarikh dan masa bagi Online Workshop yang seterusnya akan diberitahu kemudian
-*Tarikh akhir menghantar video – 06 Dis
-*Pengumuman pemenang – 11 Dis
+- Tarikh dan masa taklimat Google Meet:
+ - 19 Nov, 9 pm- 10 pm
+- Tarikh dan masa Virtual Workshop melalui Google Meet: 
+ - 23 dan 25 November 2020
+ -9 pm – 10 pm
+- Tarikh dan masa bagi Online Workshop yang seterusnya akan diberitahu kemudian
+- Tarikh akhir menghantar video – 06 Dis
+- Pengumuman pemenang – 11 Dis
 
 ### Pertandingan TikTok Sains
-*Tarikh dan masa taklimat Google Meet: 
- *23 Nov
- *9 pm-10 pm
-*Online Workshop (Google Meet) – Akan diberitahu kemudian
-*Bimbingan melalui group Telegram – Akan diberitahu kemudian
-*Tarikh akhir muat naik klip video – 09 Dis
-*Tayangan klip video di blog – 10 – 13 Dis
-*Pengumuman pemenang – 14 Dis
+-Tarikh dan masa taklimat Google Meet: 
+ - 23 Nov
+ - 9 pm-10 pm
+- Online Workshop (Google Meet) – Akan diberitahu kemudian
+- Bimbingan melalui group Telegram – Akan diberitahu kemudian
+- Tarikh akhir muat naik klip video – 09 Dis
+- Tayangan klip video di blog – 10 – 13 Dis
+- Pengumuman pemenang – 14 Dis
 
 ### Pertandingan Poster Sains
-*Tarikh dan masa taklimat Google Meet:
- *24 Nov
- *9 pm-10 pm
-*Online Workshop (Google Meet) – Akan diberitahu kemudian
-*Bimbingan melalui group Telegram – Akan diberitahu kemudian
-*Tarikh akhir hantar poster – 09 Dis
-*Paparan 10 poster terbaik di blog – 10 – 13 Dis
-*Pengumuman pemenang – 14 Dis
+- Tarikh dan masa taklimat Google Meet:
+ - 24 Nov
+ - 9 pm-10 pm
+- Online Workshop (Google Meet) – Akan diberitahu kemudian
+- Bimbingan melalui group Telegram – Akan diberitahu kemudian
+- Tarikh akhir hantar poster – 09 Dis
+- Paparan 10 poster terbaik di blog – 10 – 13 Dis
+- Pengumuman pemenang – 14 Dis
 
 ### Pertandingan Kuiz Sains
-*Tarikh dab masa taklimat Google Meet – Akan diberitahu kemudian
-*Pemilihan soalan – 17 – 22 Nov
-*Muat naik soalan ke dalam Quizizz – 23 Nov – 6 Dis
-*Quizziz dibuka – 07 – 10 Dis
-*Tarikh akhir menjawab Quizizz – 10 Dis 
-*Pengumuman pemenang – 11 Dis
+- Tarikh dab masa taklimat Google Meet – Akan diberitahu kemudian
+- Pemilihan soalan – 17 – 22 Nov
+- Muat naik soalan ke dalam Quizizz – 23 Nov – 6 Dis
+- Quizziz dibuka – 07 – 10 Dis
+- Tarikh akhir menjawab Quizizz – 10 Dis 
+- Pengumuman pemenang – 11 Dis
 
 Untuk maklumat lanjut bagi setiap pertandingan, sila rujuk maklumat pada poster yang berkenaan di [Gallery](https://vsw2020.site/gallery/)
 
