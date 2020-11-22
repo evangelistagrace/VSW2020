@@ -31,15 +31,15 @@ title: About Virtual Science Week 2020
 ## Jawatankuasa
 - Ketua Panitia: En. Mohd Rosli Bin Abd Wahab
 - Penyelaras: En. Mohd Hafiz Mungin
-- AJK: 
- - Pn. Anidah
- - Pn. Hasma 
- - Pn. Yuzliza 
- - En. Wan Faizun
- - En. Mohd Fadhil
- - En. Khairani
+* AJK: 
+    - Pn. Anidah
+    - Pn. Hasma 
+    - Pn. Yuzliza 
+    - En. Wan Faizun
+    - En. Mohd Fadhil
+    - En. Khairani
  
- ## Persons-in-Charge
+ ## Persons in Charge
  
  ### Blog
 - Penyelaras: En. Mohd Hafiz
@@ -64,19 +64,20 @@ title: About Virtual Science Week 2020
 ## Tarikh-Tarikh Penting
 
 ### Pertandingan Video
-- Tarikh dan masa taklimat Google Meet:
- - 19 Nov, 9 pm- 10 pm
-- Tarikh dan masa Virtual Workshop melalui Google Meet: 
- - 23 dan 25 November 2020
- -9 pm – 10 pm
+* Tarikh dan masa taklimat Google Meet:
+    - 19 Nov
+    - 9 pm- 10 pm
+* Tarikh dan masa Virtual Workshop melalui Google Meet: 
+    - 23 dan 25 November 2020
+    - 9 pm – 10 pm
 - Tarikh dan masa bagi Online Workshop yang seterusnya akan diberitahu kemudian
 - Tarikh akhir menghantar video – 06 Dis
 - Pengumuman pemenang – 11 Dis
 
 ### Pertandingan TikTok Sains
--Tarikh dan masa taklimat Google Meet: 
- - 23 Nov
- - 9 pm-10 pm
+* Tarikh dan masa taklimat Google Meet: 
+    - 23 Nov
+    - 9 pm-10 pm
 - Online Workshop (Google Meet) – Akan diberitahu kemudian
 - Bimbingan melalui group Telegram – Akan diberitahu kemudian
 - Tarikh akhir muat naik klip video – 09 Dis
@@ -84,9 +85,9 @@ title: About Virtual Science Week 2020
 - Pengumuman pemenang – 14 Dis
 
 ### Pertandingan Poster Sains
-- Tarikh dan masa taklimat Google Meet:
- - 24 Nov
- - 9 pm-10 pm
+* Tarikh dan masa taklimat Google Meet:
+    - 24 Nov
+    - 9 pm-10 pm
 - Online Workshop (Google Meet) – Akan diberitahu kemudian
 - Bimbingan melalui group Telegram – Akan diberitahu kemudian
 - Tarikh akhir hantar poster – 09 Dis
@@ -94,7 +95,7 @@ title: About Virtual Science Week 2020
 - Pengumuman pemenang – 14 Dis
 
 ### Pertandingan Kuiz Sains
-- Tarikh dab masa taklimat Google Meet – Akan diberitahu kemudian
+- Tarikh dan masa taklimat Google Meet – Akan diberitahu kemudian
 - Pemilihan soalan – 17 – 22 Nov
 - Muat naik soalan ke dalam Quizizz – 23 Nov – 6 Dis
 - Quizziz dibuka – 07 – 10 Dis
