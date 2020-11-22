@@ -26,7 +26,7 @@ title: About Virtual Science Week 2020
 - Program dijalankan secara atas talian.
 - Pelajar UPM bertindak sebagai fasilitator dalam memberikan bimbingan kepada murid tentang cara menghasilkan video, klip video TikTok dan poster.
 - Murid menghasilkan video secara berkumpulan dengan bimbingan seorang fasilitator bagi setiap kumpulan.
-- Murid menghantar hasil kerja melalui Google Classroom.
+- Murid menghantar hasil kerja melalui group Telegram.
 
 ## Jawatankuasa
 - Ketua Panitia: En. Mohd Rosli Bin Abd Wahab
@@ -70,7 +70,7 @@ title: About Virtual Science Week 2020
 * Tarikh dan masa Virtual Workshop melalui Google Meet: 
     - 23 dan 25 November 2020
     - 9 pm – 10 pm
-- Tarikh dan masa bagi Online Workshop yang seterusnya akan diberitahu kemudian
+- Tarikh dan masa bagi Virtual Workshop yang seterusnya akan diberitahu kemudian
 - Tarikh akhir menghantar video – 06 Dis
 - Pengumuman pemenang – 11 Dis
 
