@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Briefing Slides for Video Competition (19/11/2020)"
-date:   2020-11-22
+date:   2020-11-19
 ---
 
 <!-- link -->
