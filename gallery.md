@@ -7,7 +7,7 @@ title: VSW Gallery
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
     <h3>Main Event Poster</h3>
     <center>
-        <img src="{{ '/assets/img/new main poster.jpg'}}" width="700px" alt=""> 
+        <img src="{{ 'assets/img/new main poster.jpg'}}" width="700px" alt=""> 
     </center>
     <br />
      <h3>Online Science Quiz</h3>
