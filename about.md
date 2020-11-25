@@ -5,11 +5,11 @@ title: About Virtual Science Week 2020
 
 <h1 class="pageTitle">About Virtual Science Week 2020</h1>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual Science Week 2020 is a collaboration between the teachers and students of SMK Jalan U3, Shah Alam and undergraduate students pursuing BSc. Cell and Molecular Biology at Universiti Putra Malaysia, Serdang. This event will see the participation of primary school students in four competitions held namely, Online Science Quiz, Science Poster Competition, Science TikTok Competition and Science Video Competition. The undergraduate students will facilitate the primary school students’ participation in each of the competitions held from 6 December until 14 December 2020.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual Science Week 2020 is a collaboration between the teachers and students of SMK Jalan U3, Shah Alam and undergraduate students pursuing BSc. Cell and Molecular Biology at Universiti Putra Malaysia, Serdang. This event will see the participation of primary school students in four competitions held namely, Online Science Quiz, Science Poster Competition, Science TikTok Competition and Science Video Competition. The undergraduate students will facilitate the primary school students’ participation in each of the competitions held from 7 December until 14 December 2020.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aim of this collaboration is to instill a deeper appreciation for science and to foster new talents among primary school students. This event also serves as a means of enabling the undergraduate students to apply what they have been thought in cell and molecular biology while carrying out activities with the community. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Virtual Science Week 2020* adalah kerjasama antara guru dan pelajar SMK Jalan U3, Shah Alam dan pelajar prasiswazah yang mengikuti program BSc. Biologi Sel dan Molekul di Universiti Putra Malaysia, Serdang. Program ini akan menyaksikan penyertaan pelajar sekolah rendah dalam empat pertandingan yang diadakan iaitu, Online Science Quiz, Science Poster Competition, Science TikTok Competition dan Science Video Competition. Pelajar prasiswazah akan menjadi fasilitator kepada pelajar sekolah rendah dalam setiap pertandingan yang akan berlangsung dari 6 Disember hingga 14 Disember 2020.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Virtual Science Week 2020* adalah kerjasama antara guru dan pelajar SMK Jalan U3, Shah Alam dan pelajar prasiswazah yang mengikuti program BSc. Biologi Sel dan Molekul di Universiti Putra Malaysia, Serdang. Program ini akan menyaksikan penyertaan pelajar sekolah rendah dalam empat pertandingan yang diadakan iaitu, Online Science Quiz, Science Poster Competition, Science TikTok Competition dan Science Video Competition. Pelajar prasiswazah akan menjadi fasilitator kepada pelajar sekolah rendah dalam setiap pertandingan yang akan berlangsung dari 7 Disember hingga 14 Disember 2020.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tujuan kerjasama ini adalah untuk menanamkan penghargaan yang lebih mendalam terhadap sains dan memupuk bakat baru dalam kalangan pelajar sekolah rendah. Acara ini juga berfungsi sebagai kaedah untuk membolehkan pelajar prasiswazah menerapkan apa yang mereka telah belajar dalam biologi sel dan molekul semasa menjalankan aktiviti dengan masyarakat.
 
@@ -75,8 +75,9 @@ title: About Virtual Science Week 2020
     - 5 pm - 6 pm  (Kump. 6)
     - 9 pm - 10 pm (Kump. 1-5)
 - Tarikh dan masa bagi Virtual Workshop yang seterusnya akan diberitahu kemudian
-- Tarikh akhir menghantar video – 06 Dis
-- Pengumuman pemenang – 11 Dis
+- Tarikh akhir menghantar video – 09 Dis
+- Tayangan klip video di blog – 10 – 13 Dis
+- Pengumuman pemenang – 14 Dis
 
 ### Pertandingan TikTok Sains
 * Tarikh dan masa taklimat Google Meet: 
