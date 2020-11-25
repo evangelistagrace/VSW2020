@@ -6,6 +6,6 @@ date: 2020-11-17
 
 
 <center>
-    <img src="{{ '/assets/img/Poster_Competition.jpeg'}}" width="700px" alt=""> 
+    <img src="{{ 'assets/img/new poster.jpg'}}" width="700px" alt=""> 
 </center>
     
