@@ -16,7 +16,7 @@ title: About Virtual Science Week 2020
 ## Matlamat/Objektif
 - Murid dapat menghasilkan pelbagai media(video, klip TikTok, poster) yang berasaskan pengetahuan sains.
 - Murid dapat berkolaborasi dalam menghasilkan media berkontenkan sains.
-- Murid dapat mengintegrasi kemahiran seni dalam bidang sains. (STEAM)
+- Murid dapat mengintegrasi kemahiran seni dalam bidang sains (STEAM)
 - Murid dapat mengenali info dan pengetahuan asas berkenaan dengan bidang biomolekul
 
 ## Video Ucapan Guru Besar Sk Jalan U3, Shah Alam
@@ -67,9 +67,13 @@ title: About Virtual Science Week 2020
 * Tarikh dan masa taklimat Google Meet:
     - 19 Nov
     - 9 pm- 10 pm
-* Tarikh dan masa Virtual Workshop melalui Google Meet: 
-    - 23 dan 25 November 2020
+* Tarikh dan masa Virtual Workshop #1 melalui Zoom: 
+    - 23 Nov
     - 9 pm – 10 pm
+* Tarikh dan masa Virtual Workshop #2 melalui Cisco Webex:
+    - 25 Nov
+    - 5 pm - 6 pm  (Kump. 6)
+    - 9 pm - 10 pm (Kump. 1-5)
 - Tarikh dan masa bagi Virtual Workshop yang seterusnya akan diberitahu kemudian
 - Tarikh akhir menghantar video – 06 Dis
 - Pengumuman pemenang – 11 Dis
@@ -77,8 +81,10 @@ title: About Virtual Science Week 2020
 ### Pertandingan TikTok Sains
 * Tarikh dan masa taklimat Google Meet: 
     - 23 Nov
-    - 9 pm-10 pm
-- Online Workshop (Google Meet) – Akan diberitahu kemudian
+    - 9 pm - 10 pm
+* Tarikh dan masa Online Workshop melalui (Cisco Webex)
+    - 26 Nov
+    - 9 pm - 10 pm
 - Bimbingan melalui group Telegram – Akan diberitahu kemudian
 - Tarikh akhir muat naik klip video – 09 Dis
 - Tayangan klip video di blog – 10 – 13 Dis
@@ -87,7 +93,10 @@ title: About Virtual Science Week 2020
 ### Pertandingan Poster Sains
 * Tarikh dan masa taklimat Google Meet:
     - 24 Nov
-    - 9 pm-10 pm
+    - 9 pm - 10 pm
+* Tarikh dan masa Online Workshop melalui (Cisco Webex)
+    - 26 Nov
+    - 9 pm - 10 pm
 - Online Workshop (Google Meet) – Akan diberitahu kemudian
 - Bimbingan melalui group Telegram – Akan diberitahu kemudian
 - Tarikh akhir hantar poster – 09 Dis
