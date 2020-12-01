@@ -19,8 +19,11 @@ title: About Virtual Science Week 2020
 - Murid dapat mengintegrasi kemahiran seni dalam bidang sains (STEAM)
 - Murid dapat mengenali info dan pengetahuan asas berkenaan dengan bidang biomolekul
 
-## Video Ucapan Guru Besar Sk Jalan U3, Shah Alam
+## Video Ucapan Guru Besar Sekolah Kebangsaan Jalan U3, Shah Alam
 {% include youtube_player.html id='WIcVpS844fw' %}
+
+## Video Ucapan Pensyarah Universiti Putra Malaysia, Serdang
+{% include youtube_player.html id='BNx7aBOXR30' %}
 
 ## Pelaksanaan
 - Program dijalankan secara atas talian.
