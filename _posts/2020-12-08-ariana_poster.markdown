@@ -5,4 +5,4 @@ date: 2020-12-08
 ---
 
 <center>
-    <img src="{{ '/assets/img/ariana rose_poster'}}" width="700px" alt=""> 
+    <img src="{{ '/arianarose_poster.jpeg'}}" width="700px" alt=""> 
