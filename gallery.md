@@ -48,4 +48,4 @@ title: VSW Gallery
         <img src="{{ '/assets/img/new video.jpg'}}" width="700px" alt=""> 
     </center> 
 
-</div>
+
