@@ -5,6 +5,12 @@ title: VSW Gallery
 
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
+    <h3>TikTok Sains: Cara-cara Tumbuhan Berlindung daripada Musuh Oleh Maira Putri</h3>
+    <center>
+        {% include video_player.html id='Maira_TikTok' %}
+    <h3>TikTok Sains: Rantaian Makanan Oleh Balqis Khadijah</h3>
+    <center>
+        {% include video_player.html id='Balqis Khadijah_TikTok' %}
     <h3>Video Sains: Hidup Sihat, Hidup Sejahtera Oleh Kumpulan 6</h3>
     <center>
         {% include youtube_player.html id='pIJBBdHduYQ' %}
