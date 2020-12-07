@@ -77,7 +77,7 @@ title: About Virtual Science Week 2020
     - 25 Nov
     - 5 pm - 6 pm  (Kump. 6)
     - 9 pm - 10 pm (Kump. 1-5)
-- Tarikh dan masa bagi Virtual Workshop yang seterusnya akan diberitahu kemudian
+- Bimbingan melalui Telegram/WhatsApp- Sepanjang Program
 - Tarikh akhir menghantar video – 09 Dis
 - Tayangan klip video di blog – 10 – 13 Dis
 - Pengumuman pemenang – 14 Dis
@@ -89,7 +89,7 @@ title: About Virtual Science Week 2020
 * Tarikh dan masa Online Workshop melalui (Cisco Webex)
     - 26 Nov
     - 9 pm - 10 pm
-- Bimbingan melalui group Telegram – Akan diberitahu kemudian
+- Bimbingan melalui group Telegram – Sepanjang Program
 - Tarikh akhir muat naik klip video – 09 Dis
 - Tayangan klip video di blog – 10 – 13 Dis
 - Pengumuman pemenang – 14 Dis
@@ -101,8 +101,7 @@ title: About Virtual Science Week 2020
 * Tarikh dan masa Online Workshop melalui (Cisco Webex)
     - 26 Nov
     - 9 pm - 10 pm
-- Online Workshop (Google Meet) – Akan diberitahu kemudian
-- Bimbingan melalui group Telegram – Akan diberitahu kemudian
+- Bimbingan melalui group Telegram – Sepanjang Program
 - Tarikh akhir hantar poster – 09 Dis
 - Paparan 10 poster terbaik di blog – 10 – 13 Dis
 - Pengumuman pemenang – 14 Dis
@@ -111,8 +110,9 @@ title: About Virtual Science Week 2020
 - Tarikh dan masa taklimat Google Meet – Akan diberitahu kemudian
 - Pemilihan soalan – 17 – 22 Nov
 - Muat naik soalan ke dalam Quizizz – 23 Nov – 6 Dis
-- Quizziz dibuka – 07 – 10 Dis
-- Tarikh akhir menjawab Quizizz – 10 Dis 
+- Quizziz dibuka – 07 – 09 Dis
+- Tarikh akhir menjawab Quizizz Pusingan Pertama– 08 Dis 
+- Tarikh akhir menjawab Quizizz Pusingan Kedua– 09 Dis
 - Pengumuman pemenang – 11 Dis
 
 Untuk maklumat lanjut bagi setiap pertandingan, sila rujuk maklumat pada poster yang berkenaan di [Gallery](https://vsw2020.site/gallery/)
