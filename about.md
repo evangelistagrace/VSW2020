@@ -86,8 +86,11 @@ title: About Virtual Science Week 2020
 * Tarikh dan masa taklimat Google Meet: 
     - 23 Nov
     - 9 pm - 10 pm
-* Tarikh dan masa Online Workshop melalui (Cisco Webex)
+* Tarikh dan masa Online Workshop #1 melalui Zoom
     - 26 Nov
+    - 9 pm - 10 pm
+* Tarikh dan masa Online Workshop #2 melalui Google Meet
+    - 3 Dis
     - 9 pm - 10 pm
 - Bimbingan melalui group Telegram – Sepanjang Program
 - Tarikh akhir muat naik klip video – 09 Dis
@@ -98,8 +101,11 @@ title: About Virtual Science Week 2020
 * Tarikh dan masa taklimat Google Meet:
     - 24 Nov
     - 9 pm - 10 pm
-* Tarikh dan masa Online Workshop melalui (Cisco Webex)
+* Tarikh dan masa Online Workshop #1 melalui Cisco Webex
     - 26 Nov
+    - 9 pm - 10 pm
+* Tarikh dan masa Online Workshop #2 melalui Zoom
+    - 4 Dis 
     - 9 pm - 10 pm
 - Bimbingan melalui group Telegram – Sepanjang Program
 - Tarikh akhir hantar poster – 09 Dis
