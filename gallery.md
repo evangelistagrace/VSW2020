@@ -5,6 +5,15 @@ title: VSW Gallery
 
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
+    <h3>Poster Sains: Haiwan Vertebrata dan Invertebrata Oleh Ariana Rose</h3>
+    <center>
+        <img src="{{ '/assets/img/arianarose_poster.jpeg'}}" width="700px" alt="">
+    <h3>Poster Sains: Tabiat Yang Mengganggu Gerak Balas Manusia Oleh Warren Emmanuel</h3>
+    <center>
+        <img src="{{ '/assets/img/warren emmanuel_poster.jpg'}}" width="700px" alt="">
+     <h3>TikTok Sains: Cara-cara Haiwan Melindungi Diri Daripada Musush Oleh Nur Fathihah Sholihin</h3>
+    <center>
+        {% include youtube_player.html id='u8RMNwhqACg' %}
     <h3>TikTok Sains: Cara-cara Tumbuhan Berlindung daripada Musuh Oleh Maira Putri</h3>
     <center>
         {% include video_player.html id='Maira_TikTok' %}
