@@ -107,7 +107,9 @@ title: About Virtual Science Week 2020
 - Pengumuman pemenang – 14 Dis
 
 ### Pertandingan Kuiz Sains
-- Tarikh dan masa taklimat Google Meet – Akan diberitahu kemudian
+* Tarikh dan masa taklimat Google Meet
+    - 1 Dis
+    - 9 pm - 10 pm
 - Pemilihan soalan – 17 – 22 Nov
 - Muat naik soalan ke dalam Quizizz – 23 Nov – 6 Dis
 - Quizziz dibuka – 07 – 09 Dis
