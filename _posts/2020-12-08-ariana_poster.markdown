@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poster Sains: Haiwan Vertebrata dan Invertebrata"
+title: "Poster Sains: Haiwan Vertebrata dan Invertebrata Oleh Ariana Rose"
 date: 2020-12-08
 ---
 
