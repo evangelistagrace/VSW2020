@@ -5,6 +5,9 @@ title: VSW Gallery
 
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
+    <h3>Video Sains: Hidup Sihat, Hidup Sejahtera Oleh Kumpulan 6</h3>
+    <center>
+        {% include youtube_player.html id='pIJBBdHduYQ' %}
     <h3>Main Event Poster</h3>
     <center>
         <img src="{{ '/assets/img/new main poster.jpg'}}" width="700px" alt=""> 
