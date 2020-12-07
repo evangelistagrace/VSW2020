@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Video Sains: Hidup Sihat, Hidup Sejahtera Oleh Kumpulan 6"
+date: 2020-12-08
+---
+Ahli-ahli Kumpulan 6:
+Ammar Hakimi (6 Cendekia)
+Nur Nisa' Batrisyia Binti Mohd Shariman (6 Aspirasi)
+Nuha Nazanin Binti Mohd Hamrie (6 Aspirasi)
+Nur Dalilah Safwah Binti Mohd Raffizal (6 Aspirasi)
+
+{% include youtube_player.html id='u8RMNwhqACg' %}
