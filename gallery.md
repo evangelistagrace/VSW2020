@@ -89,6 +89,13 @@ title: VSW Gallery
         {% include youtube_player.html id='tvAQAL_HegU' %}
     <h3>Video Sains: Pertumbuhan Mikrob Oleh Kumpulan 3</h3>
     <center>
+    Ahli-ahli Kumpulan 3:
+    - Muhammad Faris Aidil Bin Sudirman (6 cendekia)
+    - Irdina Batrisyia Binti Mokhtar (6Cendekia)
+    - Wafa Nur Zahirah Zuhairah Binti Amran (6 cendekia) 
+    - Siti Umairah Binti Abu Bakar (6 Cendekia)
+    - Megat Nur Danish Bin Mohammad Syahril (6 Cendekia)
+    <center>
         {% include youtube_player.html id='HJ4ebS8N7YE' %}
     <h3>Main Event Poster</h3>
     <center>
