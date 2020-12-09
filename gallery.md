@@ -6,6 +6,7 @@ title: VSW Gallery
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
     <h3>Poster Sains: Haiwan Vertebrata dan Invertebrata</h3>
+    <center>
     Nama: Ariana Rose Bt Arolah
     <br />
     Kelas: 4 Cendekia
