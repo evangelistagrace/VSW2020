@@ -5,7 +5,12 @@ date: 2020-12-08
 ---
 Ahli-ahli Kumpulan 6:
 * Ammar Hakimi (6 Cendekia)
+<br />
 * Nur Nisa' Batrisyia Binti Mohd Shariman (6 Aspirasi)
+<br />
 * Nuha Nazanin Binti Mohd Hamrie (6 Aspirasi)
+<br />
 * Nur Dalilah Safwah Binti Mohd Raffizal (6 Aspirasi)
+<br />
+
 {% include youtube_player.html id='pIJBBdHduYQ' %}
