@@ -5,6 +5,7 @@ date: 2020-12-08
 ---
 
 Nama: Warren Emmanuel Anak Wilson
+<br />
 Kelas: 6 Dinamik
 
 <center>
