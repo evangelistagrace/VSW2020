@@ -25,6 +25,9 @@ title: About Virtual Science Week 2020
 ## Video Ucapan Pensyarah Universiti Putra Malaysia, Serdang
 {% include youtube_player.html id='BNx7aBOXR30' %}
 
+## Video Pengenalan Kepada Virtual Science Week 2020
+{% include youtube_player.html id='qa-k4Cb-YM4' %}
+
 ## Pelaksanaan
 - Program dijalankan secara atas talian.
 - Pelajar UPM bertindak sebagai fasilitator dalam memberikan bimbingan kepada murid tentang cara menghasilkan video, klip video TikTok dan poster.
