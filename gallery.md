@@ -5,6 +5,7 @@ title: VSW Gallery
 
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
+    <center>
     <h3>Poster Sains: Sains Fotosintesis</h3>
     <center>
     Nama: Raja Qistina Athira Binti Raja Shah Nizam
