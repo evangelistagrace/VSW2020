@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Video Sains: Kegunaan Mikroorganisma Oleh Kumpulan 5"
+date: 2020-12-09
+---
+Ahli-ahli Kumpulan 6:
+- Muhammad Nur Adli Bin Khamis (6 Efektif)
+- Nur Damia Qaisarah Binti Yusrizal (6 Efektif)
+
+{% include youtube_player.html id='RdhfMQKYzeM' %}
