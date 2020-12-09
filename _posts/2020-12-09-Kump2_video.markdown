@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Video Sains:  Pertumbuhan Mikroorganisma Oleh Kumpulan 2"
+date: 2020-12-09
+---
+
+Ahli-ahli Kumpulan 2:
+- Hamizah binti Zaihan-6 Aspirasi
+- Wardina Zahrah Binti Abas-6 Bestari
+- Danisha Qaisara binti Md. Nizam-6 Bestari 
+- Husna Hadirah binti khairul nahar-6 Bestari
+
+{% include youtube_player.html id='F4w0yhhxD90' %}
