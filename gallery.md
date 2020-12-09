@@ -5,7 +5,10 @@ title: VSW Gallery
 
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
-    <h3>Poster Sains: Haiwan Vertebrata dan Invertebrata Oleh Ariana Rose</h3>
+    <h3>Poster Sains: Haiwan Vertebrata dan Invertebrata</h3>
+    Nama: Ariana Rose Bt Arolah
+    <br />
+    Kelas: 4 Cendekia
     <center>
         <img src="{{ '/assets/img/arianarose_poster.jpeg'}}" width="700px" alt="">
     <h3>Poster Sains: Tabiat Yang Mengganggu Gerak Balas Manusia Oleh Warren Emmanuel</h3>
