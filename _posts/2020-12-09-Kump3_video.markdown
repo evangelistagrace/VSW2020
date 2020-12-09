@@ -4,4 +4,11 @@ title: "Video Sains: Pertumbuhan Mikrob Oleh Kumpulan 3"
 date: 2020-12-09
 ---
 
+Ahli-ahli Kumpulan 3:
+- Muhammad Faris Aidil Bin Sudirman (6 cendekia)
+- Irdina Batrisyia Binti Mokhtar (6Cendekia)
+- Wafa Nur Zahirah Zuhairah Binti Amran (6 cendekia) 
+- Siti Umairah Binti Abu Bakar (6 Cendekia)
+- Megat Nur Danish Bin Mohammad Syahril (6 Cendekia)
+
 {% include youtube_player.html id='HJ4ebS8N7YE' %}
