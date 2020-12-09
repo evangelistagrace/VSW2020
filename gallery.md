@@ -5,6 +5,20 @@ title: VSW Gallery
 
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
+    <h3>Poster Sains: Sains Fotosintesis</h3>
+    <center>
+    Nama: Raja Qistina Athira Binti Raja Shah Nizam
+    <br />
+    Kelas: 4 Bestari
+    <center>
+        <img src="{{ '/assets/img/Raja_Poster.jpg'}}" width="700px" alt="">
+    <h3>Poster Sains: Sains Bumi</h3>
+    <center>
+    Nama: Alif Putra
+    <br />
+    Kelas: 4 Bestari
+    <center>
+        <img src="{{ '/assets/img/Alif_Poster.jpg'}}" width="700px" alt="">
     <h3>Poster Sains: Haiwan Vertebrata dan Invertebrata</h3>
     <center>
     Nama: Ariana Rose Bt Arolah
