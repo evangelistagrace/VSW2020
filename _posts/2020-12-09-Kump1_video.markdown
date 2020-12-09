@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Video Sains: Mikroorganisma Oleh Kumpulan 1"
+date: 2020-12-09
+---
+
+Ahli-ahli Kumpulan 1:
+- Nur Zahirah Farhana binti Abdul Rahim (6 Aspirasi) 
+- Mikhail Adam bin Mohd Faizal (6 Aspirasi) 
+- Muhammad Aqil Raif Bin Nasrul Hadi (6 Aspirasi)
+- Muhammad Danish Bin Ahmad (6 Aspirasi)
+
+{% include youtube_player.html id='YqKPqjf8Iqs' %}
