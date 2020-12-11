@@ -70,20 +70,27 @@ title: VSW Gallery
     Kelas: 6 Dinamik
     <center>
         <img src="{{ '/assets/img/Sarenya_Poster.jpg'}}" width="700px" alt="">
+    <h3>TikTok Sains: Pengembangan dan Pengecutan</h3>
+    <center>
+    Nama: Nurdania Irdina binti Mohd Azizi
+    <br />
+    Kelas: 5 Inovatif
+    <center>
+        {% include youtube_player.html id='H8pTjIjw0VI' %}
     <h3>TikTok Sains: Rantai Makanan</h3>
     <center>
     Nama: Irdyna Uzma binti Mohamad Azizi
     <br />
     Kelas: 5 Aspirasi
     <center>
-        {% include video_player.html id='Irdyna_tiktok' %}
+        {% include youtube_player.html id='y79yEOQfh30' %}
     <h3>TikTok Sains: Cara Haiwan Melindungi Diri Daripada Cuaca Melampau</h3>
     <center>
     Nama: Nurul Farhana Bt Mohd Zuraidi
     <br />
     Kelas: 5 Aspirasi
     <center>
-        {% include video_player.html id='Farahana_tiktok' %}
+        {% include youtube_player.html id='BJFbleAO8xI' %}
     <h3>TikTok Sains: Kondensasi</h3>
     <center>
     Nama: Adam Danish
@@ -103,14 +110,14 @@ title: VSW Gallery
     <br />
     Kelas: 5 Kreatif
     <center>
-        {% include video_player.html id='Maira_TikTok' %}
+        {% include youtube_player.html id='Ji60p38gKNg' %}
     <h3>TikTok Sains: Rantaian Makanan</h3>
     <center>
     Nama: Balqis Khadijah Bt Faizal
     <br />
     Kelas: 5 Inovatif
     <center>
-        {% include video_player.html id='Balqis Khadijah_TikTok' %}
+        {% include youtube_player.html id='b22VfMLMrdk' %}
     <h3>TikTok Sains: Jirim (Proses Pembekuan)</h3>
     <center>
     Nama: Farwizah Aiman bt Mohd Sabri
