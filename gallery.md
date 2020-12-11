@@ -6,6 +6,14 @@ title: VSW Gallery
 <div class="post">
     <h1 class="pageTitle">VSW 2020 Gallery</h1>
     <center>
+    <h3>Poster Sains: Peraturan Bilik Sains</h3>
+    <center>
+    Nama: Balqis Khadijah Binti Faizal
+    <br />
+    Kelas: 5 Inovatif
+    <center>
+        <img src="{{ '/assets/img/Balqis_poster.jpg'}}" width="700px" alt="">
+    <center>
     <h3>Poster Sains: Sumber Asas Batuan</h3>
     <center>
     Nama: Muhammad Ameer Danish bin Mohd Shariman
