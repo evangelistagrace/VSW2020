@@ -18,10 +18,9 @@ RNA
 <center>
 {% include youtube_player.html id='V9uRYtRSVHA' %}
 
-* Credits to Science Video Competition Facilitators:
-- Dayang Azah Sofea Binti Jairojam   
-- Li Yicong   
-- Sum Sofea Binti Zulkifli   
-- Yeap Sie Ling   
-- Chandreeka A/P Thinakaran   
-- Lai Thai Leong
+Credits to Science TikTok Competition Facilitators:
+- Nabilah Sahira Bt Ahmad Zamri   
+- Nurhaida Batrisyia binti Abd Rahman   
+- Miza Iwani binti Nor Arifin   
+- Aisyah Afiqah bt Mat Fuad   
+- Nur Hamizah Bt Ali Akaram
