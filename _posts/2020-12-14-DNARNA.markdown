@@ -10,9 +10,11 @@ Now that Virtual Science Week 2020 come to a close, we are going to announce the
 
 
 #### DNA
+<center>
 {% include youtube_player.html id='EFlBfrtz62E' %}
-<br/ >
+<br />
 #### RNA
+<center>
 {% include youtube_player.html id='V9uRYtRSVHA' %}
 
 Enjoy!
