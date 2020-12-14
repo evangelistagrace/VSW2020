@@ -11,4 +11,10 @@ Here is a short introduction to cells, the basic unit of life. We hope you can s
 <center>
 {% include youtube_player.html id='nVwVcApDeTQ' %}
 
-Enjoy!
+Credits to Science Video Competition Facilitators:
+- Dayang Azah Sofea Binti Jairojam   
+- Li Yicong   
+- Sum Sofea Binti Zulkifli   
+- Yeap Sie Ling   
+- Chandreeka A/P Thinakaran   
+- Lai Thai Leong
