@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "DNA & RNA"
+date:   2020-12-14
+---
+
+
+Now that Virtual Science Week 2020 come to a close, we are going to announce the winners very soon! So stay tuned! In the meantime, we hope you can spare some time to watch these TikTok videos prepared by UPM facilitators in hopes that SK Jalan U3 students will have some exposure to the field of study we are pursuing currently. 
+
+
+
+#### DNA
+{% include youtube_player.html id='EFlBfrtz62E' %}
+<br/ >
+#### RNA
+{% include youtube_player.html id='V9uRYtRSVHA' %}
+
+Enjoy!
