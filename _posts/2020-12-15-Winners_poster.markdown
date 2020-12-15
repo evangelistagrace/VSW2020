@@ -22,7 +22,8 @@ Science Poster Competition
 Science Quiz
 <center>
     <img src="{{ '/assets/img/Quiz Prices.jpeg'}}" width="700px" alt="">
-
+    
+<br />
 A big congratulations to all participants! We hope you learned something new throughout the duration of the Virtual Science Week 2020.
 
 
