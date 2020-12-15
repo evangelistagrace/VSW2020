@@ -8,8 +8,8 @@ Interested in pursuing Biomolecular Sciences? If yes, then these careers and man
 
 <center>
     <img src="{{ '/assets/img/Peluang pekerjaan dalam bidang sains biomolekul.png'}}" width="700px" alt="">
-
-By Science Poster Facilitators:
+<br />
+Credits to Science Poster Facilitators:
 Yashvinnie A/P Velaudam 
 Arina Nabilah Binti Nizam 		
 Nur Asyiqin Binti Omar 		
